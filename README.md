@@ -18,8 +18,7 @@ Piping works with only two arguments. For example:
 
 Added Commands for v1.1:
 
-color [0, 30-37]    - Changes color of msh (no brackets)
-
+	color [0, 30-37]    - Changes color of msh (no brackets)
 		0: resets colors
 		30: BLACK
 		31: RED
