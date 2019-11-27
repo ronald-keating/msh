@@ -1,10 +1,10 @@
-msh Program V1.1
+# msh Program V1.1
 
 Created by Ronald Keating
 
 3-29-2019
 
-------What is msh------
+## What is msh
 
 It is a My Shell program that executes system commands, such as ps or ls.
 
@@ -40,7 +40,7 @@ Added Commands for v1.1:
 	unalias string							-remove alias
 
 
-------Setup------
+## Setup
 
 Compile the shell:
 	
@@ -50,11 +50,11 @@ Run the executive file with
 
 	./msh
 
-------Running the Program------
+## Running the Program
 Once the program is running, you will be prompted with ">: "
 This means that the program is ready to take in input
 Enter a command and press enter to execute the command
 
 Type    exit<enter>     to exit msh
 
-**Note: The program ignores any extra white spaces and/or single/double quotes
+Note: The program ignores any extra white spaces and/or single/double quotes
